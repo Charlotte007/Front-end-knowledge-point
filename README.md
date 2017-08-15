@@ -1,6 +1,6 @@
 # Front-end-knowledge-point
 
-###javascript的复习
+javascript的复习
 ==========================================
 
 （一）. 一些关键词
