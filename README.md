@@ -22,10 +22,10 @@ javascript的复习
     * undefined
 
 （四）. 函数中常见的
-*a. arguments 实参的集合
-*b. 函数默认返回undefind
-*c. getComputedStyle(obj)[attr]
-*d. obj.currentStyle[attr]
+      * a. arguments 实参的集合
+      * b. 函数默认返回undefind
+      * c. getComputedStyle(obj)[attr]
+      * d. obj.currentStyle[attr]
 
 （五）. 定时器异步的
 setInterval()
