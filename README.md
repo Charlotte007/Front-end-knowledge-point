@@ -4,22 +4,22 @@ javascript的复习
 ==========================================
 
 （一）. 一些关键词
-*continue 跳出本次循环
-*break 跳出循环
+    * continue 跳出本次循环
+    * break 跳出循环
 
 （二）. 不常有的语法书写
-switch( 判断条件 ) {
-  case 结果：
-  break 防止击穿
-}
+    switch( 判断条件 ) {
+      case 结果：
+      break 防止击穿
+    }
 
 （三）. typeof 的数据类型
-*number
-*string
-*object
-*boolean
-*function
-*undefined
+    * number
+    * string
+    * object
+    * boolean
+    * function
+    * undefined
 
 （四）. 函数中常见的
 *a. arguments 实参的集合
